@@ -34,7 +34,7 @@
     "sha256-uint8array": "^0.10.7",
     "sortablejs": "^1.15.0",
     "vnc-ui-vue": "^1.0.0",
-    "vue": "^2.7.14",
+    "vue": "^3.0.0",
     "vue-apexcharts": "^1.6.2",
     "vue-i18n": "^8.28.2",
     "vue-router": "^3.6.5",
